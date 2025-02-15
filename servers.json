@@ -1,0 +1,14 @@
+[
+    {
+        "product_name": "Dell R740",
+        "serial_number": "SN987654",
+        "rack_location": "Rack-H1",
+        "username": "santosh"
+    },
+    {
+        "product_name": "HP Gen10+",
+        "serial_number": "dl657668",
+        "rack_location": "Rack-H2",
+        "username": "Arun"
+    }
+]
